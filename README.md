@@ -1,6 +1,6 @@
 -  👋 Hi, I’m Zach!
--  💻 I’m interested in HTML, CSS, &  Frontend JS Web Development.
--  ⌨ I’m currently learning Frontend JS Web Development.
+-  💻 I’m interested in HTML, CSS, &  Frontend JavaScript Web Development.
+-  ⌨ I’m currently learning Frontend Javascript Web Development.
 -  💾 I’m looking to collaborate on various development projects!
 
 <!---
