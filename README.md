@@ -1,7 +1,7 @@
 -  👋 Hi, I’m Zach!
--  💻 I’m interested in Web Development and Software Engineering.
--  ⌨ I’m currently learning some Software Engineering.
--  💾 I’m looking to collaborate on various software projects!
+-  💻 I’m interested in Frontend HTML, CSS, & JS Web Development.
+-  ⌨ I’m currently learning Frontend JS Web Development.
+-  💾 I’m looking to collaborate on various development projects!
 
 <!---
 Zseurkamp/Zseurkamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
